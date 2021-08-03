@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willliamdev
 - 👀 I’m interested in Web Developmet 
-- 🌱 I’m currently learning Frontend['Html', 'CSS', 'Java Script']
+- 🌱 I’m currently learning Front-End ['Html', 'CSS', 'Java Script']
 - 📫 How to reach me on willliam.dev@gmail.com
 
 <!---
