@@ -4,8 +4,8 @@
 <p align="center">🖖 I’m currently studying through <a href="https://www.rocketseat.com.br">Rocketseat</a> &nbsp; | &nbsp; 📫 How to reach me <a href="mailto:willliam.dev@gmail.com">willliam.dev@gmail.com</a></p>
 
 <br>
-
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=willliamdev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willliamdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=willliamdev&show_icons=true" alt="William"/> 
+</p>
 
 <!-- - 👨‍💻 All of my projects are available at [Create a site](https://my.portifolio.ghpages) -->
