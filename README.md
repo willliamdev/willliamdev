@@ -1,9 +1,13 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm William Almeida  &nbsp; <img src="https://komarev.com/ghpvc/?username=willliamdev" alt="William dev" /></h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm William Almeida</h1>
 <h3 align="center"> &lt;A Web Development Student/&gt;</h3>
 
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=willliamdev&show_icons=true" alt="William"/> 
-</p>
-
-<!-- - 👨‍💻 All of my projects are available at [Create a site](https://my.portifolio.ghpages) -->
+<br/>
+<!-- Githuibu stats-->
+<div align="center">
+  <a href="https://github.com/willliamdev?tab=repositories" target="_self">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willliamdev&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willliamdev&layout=compact&langs_count=7"/>
+</div>
+  
+<br/>
+&nbsp; <img align="right" src="https://komarev.com/ghpvc/?username=willliamdev" alt="William dev" />
