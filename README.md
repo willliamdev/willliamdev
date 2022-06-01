@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm William Almeida</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm William Almeida</h1>
 <h3 align="center"> &lt;A Web Development Student/&gt;</h3>
 
 <br/>
